@@ -1,0 +1,126 @@
+{
+  "100": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "110": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "111": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "120": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "121": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "130": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "200": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "210": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "220": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "221": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "230": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "300": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "310": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "320": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "330": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "400": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "410": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "411": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "420": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "421": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "800": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "801": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "802": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "803": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "804": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "805": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "806": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "807": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "808": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "809": {
+    "isGame": "false",
+    "maxUsers": 50
+  },
+  "810": {
+    "isGame": "false",
+    "maxUsers": 50
+  }
+}
